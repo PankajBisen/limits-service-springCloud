@@ -1,5 +1,6 @@
 package com.microservices.limitsservice.bean;
 
+
 public class Limits {
     private int minimum;
     private int maximum;
